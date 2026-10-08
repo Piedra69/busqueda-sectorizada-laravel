@@ -62,15 +62,15 @@ git push -u origin feature/1-busqueda-sectorizada
 
 Luego se abre un Pull Request hacia `develop` con `Closes #1`, el compañero revisa y aprueba, y finalmente se realiza `Squash and merge` o el método definido por el equipo.
 
-## Evidencias que aún deben ser reales de GitHub
+## Evidencias reales de GitHub
 
-No se deben inventar estas pruebas. Después de subir el proyecto al repositorio del equipo, capturen:
+El repositorio y su trazabilidad fueron publicados el 8 de octubre de 2026:
 
-1. Issue #1.
-2. Rama `feature/1-busqueda-sectorizada`.
-3. Commits de la rama.
-4. Pull Request hacia `develop`.
-5. Revisión y aprobación del compañero.
-6. Merge a `develop`.
-7. Pantalla de la funcionalidad funcionando.
-8. Enlace al repositorio.
+1. [Repositorio `Piedra69/busqueda-sectorizada-laravel`](https://github.com/Piedra69/busqueda-sectorizada-laravel).
+2. [Issue #1 - Implementar búsqueda sectorizada de reportes](https://github.com/Piedra69/busqueda-sectorizada-laravel/issues/1).
+3. Ramas `main`, `develop` y `feature/1-busqueda-sectorizada` publicadas.
+4. Seis commits originales conservados; el Pull Request incluye los cinco de la rama feature más un commit documental con el estado real.
+5. [Pull Request #2 hacia `develop`](https://github.com/Piedra69/busqueda-sectorizada-laravel/pull/2), abierto y sin fusionar.
+6. Capturas reales entregadas junto con el PDF actualizado y estado resumido en [`docs/evidencias-github.md`](docs/evidencias-github.md).
+
+La revisión/aprobación de un compañero y el merge siguen pendientes. No se registran como realizados hasta que una segunda cuenta real complete esas acciones.
